@@ -1,0 +1,53 @@
+.title {
+    font-family: Helvetica;
+    text-align: center;
+    background-color: #D1E6E7;
+    padding: 4px;
+    margin: 8px;
+    border-radius: 4px;
+    color: #5B7778;
+    margin-bottom: 2cm;
+}
+.Session-Title{
+	font-family: Helvetica;
+    text-align: center;
+    background-color: #FDB813;
+    padding: 4px;
+    margin: 8px;
+    border-radius: 4px;
+    color: black;
+}
+.Session{
+    background-color: #D1E6E7;
+    padding: 4px;
+    margin: 8px;
+    border-radius: 4px;
+}
+
+.Session-Description {
+    
+    font-family: Helvetica;
+    text-align: center;
+    background-color: #EDBD3E;
+    padding: 4px;
+    margin: 8px;
+    border-radius: 4px;
+    color: black;
+    margin-bottom: 1cm;
+}
+
+.body {
+	background-color: #5B7778;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+}
+
+.content {
+	background-color: #D1E6E7;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
